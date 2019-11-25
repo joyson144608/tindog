@@ -181,4 +181,18 @@ p {
     position: static;
     transform: rotate(0);
   }
+
+  .nav-link {
+    font-size: 3.2rem;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 300;
+  
+  }
+
+  .feature-title {
+    font-size: 2.5rem;
+  }
+
+
+
 }
